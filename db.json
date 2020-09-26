@@ -1,1 +1,45 @@
+{
+"post":[
+{
+"id":1,
+"title":"Book one",
+"description":"apple apple apple"},
+
+{
+"id":2,
+"title":"Book one",
+"description":"apple apple apple"},
+
+{
+"id":3,
+"title":"Book one",
+"description":"apple apple apple"}
+],
+"comments":[
+
+
+{
+"id":1,
+"title":"Book one",
+"description":"apple apple apple"},
+
+{
+"id":1,
+"title":"Book one",
+"description":"apple apple apple"},
+
+{
+"id":1,
+"title":"Book one",
+"description":"apple apple apple"}
+],
+"profile":{
+"name":"profile 1"
+}
+}
+
+
+
+
+
 
