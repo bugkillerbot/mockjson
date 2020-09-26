@@ -2,42 +2,63 @@
 "post":[
 {
 "id":1,
-"title":"Book one",
-"description":"apple apple apple"},
+"title":"Java Programming",
+"description":"https://www.tutorialspoint.com/java/java_tutorial.pdf"},
 
 {
 "id":2,
-"title":"Book one",
-"description":"apple apple apple"},
+"title":"Android Programming",
+"description":"https://www.tutorialspoint.com/android/android_tutorial.pdf"},
 
 {
 "id":3,
-"title":"Book one",
-"description":"apple apple apple"}
+"title":"Machine Learning",
+"description":"https://www.tutorialspoint.com/machine_learning/machine_learning_tutorial.pdf"},
+
+{
+"id":4,
+"title":"Python Programming",
+"description":"http://index-of.es/Python/O'Reilly%20-%20Learning%20Python.pdf"},
+
+{
+"id":5,
+"title":"Python 3",
+"description":"https://www.tutorialspoint.com/python3/python_tutorial.pdf"}
 ],
-"books":[
-
-
-{
-"id":1,
-"title":"Book one",
-"description":"apple apple apple"},
+"songs":[
 
 {
 "id":1,
-"title":"Book one",
-"description":"apple apple apple"},
+"title":"Aadat - Atif Aslam",
+"description":"h1Lf7_56R_c"},
 
 {
-"id":1,
-"title":"Book one",
-"description":"apple apple apple"}
+"id":2,
+"title":"Dil ka Dariya",
+"description":"h7gyJRWrjbg"},
+
+{
+"id":3,
+"title":"Zara Zara",
+"description":"pdoM2FzGoog"},
+{
+"id":4,
+"title":"Namo namo Sankara",
+"description":"dx4Teh-nv3A"},
+{
+"id":5,
+"title":"Ek pal ka jeena",
+"description":"hI2NjF6dpao"},
+{
+"id":6,
+"title":"Chand Sifaris",
+"description":"zWEOx7TSM6I"}
+
 ],
 "profile":{
 "name":"profile 1"
 }
 }
-
 
 
 
