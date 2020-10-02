@@ -29,29 +29,35 @@
 
 {
 "id":1,
-"title":"Aadat - Atif Aslam",
+"title":"Aadat",
+ "singer":"Atif aslam",
 "description":"h1Lf7_56R_c"},
 
 {
 "id":2,
 "title":"Dil ka Dariya",
+ "singer":"Jubin Nautiyal",
 "description":"h7gyJRWrjbg"},
 
 {
 "id":3,
 "title":"Zara Zara",
+ "singer":"OMkar",
 "description":"pdoM2FzGoog"},
 {
 "id":4,
 "title":"Namo namo Sankara",
+ "singer":"Amit trivadi",
 "description":"dx4Teh-nv3A"},
 {
 "id":5,
 "title":"Ek pal ka jeena",
+  "singer":"Lucky Ali",
 "description":"hI2NjF6dpao"},
 {
 "id":6,
 "title":"Chand Sifaris",
+  "singer":"Shaan",
 "description":"zWEOx7TSM6I"}
 
 ],
